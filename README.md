@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # todo-list
 React.js로 구현한 1페이지 todo-list 화면
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
